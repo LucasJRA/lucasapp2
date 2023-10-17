@@ -20,6 +20,10 @@ function Header(){
                         <Nav.Item>
                             <Link className="nav-link" to="/contato"> Contato </Link>
                         </Nav.Item>
+
+                        <Nav.Item>
+                            <Link className="nav-link" to="/lista"> Pág. Atividade </Link>
+                        </Nav.Item>
                     </Nav>
                     </Navbar.Collapse>
             </Container>
